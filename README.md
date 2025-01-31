@@ -5,8 +5,11 @@
 
 
 # The task 
+Calculate the required torque for each motor in the robotic arm and find a suitable servo motor for each joint
 
-![Image](https://github.com/user-attachments/assets/d44fbdf9-5ddd-48c7-8d72-0254c8ec0a1e)
+![Image](https://github.com/user-attachments/assets/0747f5a5-15c1-4e7f-ad17-6754e8d49e2a)
+
+
 
 
 
