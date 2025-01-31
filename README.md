@@ -1,10 +1,12 @@
 # Robotic-Arm-Calculations
+
 🦾 Torque Calculation and Servo Motor Selection for Robotic Arm
 
 
 
 
 # The task 
+
 Calculate the required torque for each motor in the robotic arm and find a suitable servo motor for each joint
 
 ![Image](https://github.com/user-attachments/assets/0747f5a5-15c1-4e7f-ad17-6754e8d49e2a)
@@ -16,6 +18,7 @@ Calculate the required torque for each motor in the robotic arm and find a suita
 
 
 # 📌 Given Data
+
 - Mass of the object: 1 kg
 - Length of the first arm: 10 cm = 0.1 m
 - of the second arm: 15 cm = 0.15 m
@@ -25,6 +28,7 @@ Calculate the required torque for each motor in the robotic arm and find a suita
 
 
 # ⚙️ 1. Calculating the Force
+
 To calculate the force due to weight:
 Force = mass × g
 
@@ -35,7 +39,9 @@ Force = 1 kg × 9.81 m/s^2 = 9.81 N
 
 
 #  2. Calculating the Torque for Each Motor
+
 Torque is calculated using the formula:
+
 Torque = Force × Distance
 
 
@@ -55,6 +61,7 @@ Torque(2) = 9.81 N × 0.15 m = 1.4715 N\cdotpm
 
 
 # Results
+
 First motor: Requires at least 0.981 N·m of torque
 
 Second motor: Requires at least 2.4525 N·m of torque
@@ -63,6 +70,7 @@ Second motor: Requires at least 2.4525 N·m of torque
 
 
 # 🛒 Where to Buy Servo Motors
+
 ElectroCraft: [Visit Website](https://www.electrocraft.com/)
 
 Amazon: [Visit Website](https://www.amazon.com/)
