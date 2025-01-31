@@ -56,6 +56,7 @@ Torque(2) = 9.81 N × 0.15 m = 1.4715 N\cdotpm
 
 # Results
 First motor: Requires at least 0.981 N·m of torque
+
 Second motor: Requires at least 2.4525 N·m of torque
 
 
@@ -63,5 +64,7 @@ Second motor: Requires at least 2.4525 N·m of torque
 
 # 🛒 Where to Buy Servo Motors
 ElectroCraft: [Visit Website](https://www.electrocraft.com/)
+
 Amazon: [Visit Website](https://www.amazon.com/)
+
 RobotShop: [Visit Website](https://www.robotshop.com/)
